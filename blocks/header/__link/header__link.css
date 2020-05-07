@@ -1,0 +1,10 @@
+.header__link, .header__link:active, .header__link:visited{
+  color: #2f80ed;
+  text-decoration: none;
+
+}
+.header__link:hover{
+  text-decoration: underline;
+  opacity: 0.4;
+
+}
