@@ -1,0 +1,14 @@
+
+.logo_place_footer{
+  position: relative;
+  left:0px;
+  top: 0px;
+  width: 183px;
+  height:36px;
+
+  background-image: url('../../../images/logo_place_footer.svg');
+  background-size: cover;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: left;
+}

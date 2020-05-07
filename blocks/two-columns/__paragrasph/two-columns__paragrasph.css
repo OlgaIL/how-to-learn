@@ -1,0 +1,12 @@
+.two-columns__paragrasph{
+  margin: 0px;
+  margin-bottom: 30px;
+
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: normal;
+}
+
+.two-columns__paragrasph:last-of-type{
+  margin-bottom: 0px;
+}
