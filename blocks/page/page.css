@@ -13,8 +13,7 @@
   opacity: 1;
   transition: opacity 1s linear 0.1s;
 }
-/*
-*{
-  outline:1px solid green;
-  }
-  */
+
+/**{
+  outline:0px solid green;
+  }*/
